@@ -1,0 +1,92 @@
+/* CSS Document */
+img {
+	float: right;
+	position: relative;
+	margin-right: 8%;
+	margin-top: 3%;
+
+}
+#top {
+	height: 3in;
+	width: 5in;
+	
+}
+ul {
+	list-style: none;
+	
+}
+
+h1 {
+	text-transform: uppercase;
+	font-family: Impact;
+	color: white;
+	background-color: rgba(0,0,0,.6);
+	
+}
+cite {
+	margin-left: 3%;
+	letter-spacing: 2px;
+	font-size: 11pt;
+	font-weight: 500;
+}
+
+body {
+	background-color: rgba(53,50,50,1.00);
+	color: white;
+}
+
+li {
+	display: inline-block
+}
+h2 {
+	margin-left: 3%;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-size: 15pt;
+}
+.div1 {
+	margin-left: 5%;
+	height: 6cm;
+	width: 8in;
+	letter-spacing: 2px;
+}
+p.body1:first-letter {
+	font-size: 20pt;
+	font-weight: bold;
+}
+.h2 {
+	margin-left: 4%;
+}
+div.body2 {
+	heigt: 2in;
+	width: 5in;
+}
+.div2 {
+	margin-left: 6%;
+	height: 1in;
+	width: 8in;
+	letter-spacing: 2px;
+	font-size: 13pt;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+div.h3 {
+	height: 2in;
+	width: 5in;
+	margin-left: 8%;
+	
+}
+p3.linkage {
+	font-size: 13pt;
+	letter-spacing: 2px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+input {
+	color: white;
+	background-color: rgba(53,50,50,1.00);
+}
+input:hover {
+	color: gray;
+}
